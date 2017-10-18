@@ -1,0 +1,11 @@
+p{
+  color: #464547;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.125rem;
+  transform: scaleY(3);
+  font-stretch: extra-condensed;
+}
+
+html{
+	background-color: #ff9999;
+}
